@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Replace with your Excel/CSV export
+# # Data from running simulator
 transpose = {
     "injection_rate": [0.001,0.002,0.00289,0.003,0.004,0.005,0.006,0.0065,0.007],
     "latency": [46.7477,48.0048,51.9104,52.6463,55.9598,62.828,72.8325,83.6003,133.808]
